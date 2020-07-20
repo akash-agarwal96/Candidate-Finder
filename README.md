@@ -1,6 +1,6 @@
 # Candidate-Finder
 
-This Porject helps recruiter is finding candidates who have applied for the job based on various Search filters like (location,excpected salary,Skills etc).
+This Project helps recruiter in finding candidates who have applied for the job based on various Search filters like (location,excpected salary,Skills etc).
 
 * Fill the form
 * Give the Skill test
