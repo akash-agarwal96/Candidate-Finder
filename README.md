@@ -1,4 +1,11 @@
 # Candidate-Finder
+
+* Fill the form
+* Give the exam
+* View and update your details through User Dashboard
+* Information goes to the recruiter and can be seen thorugh Admin Dashboard
+
+
 ## Get Hired
 ![screencapture-file-C-Users-akash-OneDrive-Desktop-Creat-a-ton-landingpage-landing-html-2020-07-20-14_09_55](https://user-images.githubusercontent.com/58200628/87960718-57035300-cad2-11ea-92ee-a12d817a952b.png)
 ## Sign Up
