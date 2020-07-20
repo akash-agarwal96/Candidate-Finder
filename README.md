@@ -1,7 +1,7 @@
 # Candidate-Finder
 ## Get Hired
 ![screencapture-file-C-Users-akash-OneDrive-Desktop-Creat-a-ton-landingpage-landing-html-2020-07-20-14_09_55](https://user-images.githubusercontent.com/58200628/87960718-57035300-cad2-11ea-92ee-a12d817a952b.png)
-## Sing Up
+## Sign Up
 ![screencapture-file-C-Users-akash-OneDrive-Desktop-Creat-a-ton-login-login-html-2020-07-20-14_11_47](https://user-images.githubusercontent.com/58200628/87960758-62ef1500-cad2-11ea-9ab2-5664bbed316d.png)
 ## Sign in
 ![screencapture-file-C-Users-akash-OneDrive-Desktop-Creat-a-ton-login-login-html-2020-07-20-14_11_27](https://user-images.githubusercontent.com/58200628/87960747-5ff42480-cad2-11ea-9231-a73557adc51a.png)
